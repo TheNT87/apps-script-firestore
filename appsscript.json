@@ -1,0 +1,11 @@
+{
+  "timeZone": "Etc/UTC",
+  "dependencies": {},
+  "oauthScopes": [
+    "https://www.googleapis.com/auth/script.external_request",
+    "https://www.googleapis.com/auth/cloud-platform",
+    "https://www.googleapis.com/auth/datastore"
+  ],
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
